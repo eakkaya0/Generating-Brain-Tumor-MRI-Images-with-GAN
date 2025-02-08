@@ -40,3 +40,14 @@ Epoch 5
 
 Epoch 6
 ![olusan_goruntu6](https://github.com/user-attachments/assets/67d42249-eca8-44e1-b6c1-1e5afecc9cd8)
+
+
+Epoch 7
+
+![olusan_goruntu7](https://github.com/user-attachments/assets/1a25e948-31ff-4d2d-a989-02e3e75adfd7)
+
+Epoch 8
+
+![olusan_goruntu8](https://github.com/user-attachments/assets/9c856add-93cc-4f14-aa1f-0dd2a6410899)
+
+
