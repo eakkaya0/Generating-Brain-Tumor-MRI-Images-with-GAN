@@ -44,10 +44,11 @@ Epoch 6
 
 Epoch 7
 
-![olusan_goruntu7](https://github.com/user-attachments/assets/1a25e948-31ff-4d2d-a989-02e3e75adfd7)
+![olusan_goruntu7](https://github.com/user-attachments/assets/f344c0a1-5bbe-44fa-9de1-446e9fb7bac1)
+
 
 Epoch 8
 
-![olusan_goruntu8](https://github.com/user-attachments/assets/9c856add-93cc-4f14-aa1f-0dd2a6410899)
+![olusan_goruntu8](https://github.com/user-attachments/assets/d5afba5d-3c11-473c-a2c9-d84025d4c247)
 
 
