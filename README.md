@@ -6,6 +6,14 @@ Real Images
 
 Images Produced
 
+Epoch 7
+
+![olusan_goruntu7](https://github.com/user-attachments/assets/f344c0a1-5bbe-44fa-9de1-446e9fb7bac1)
+
+
+Epoch 8
+
+![olusan_goruntu8](https://github.com/user-attachments/assets/d5afba5d-3c11-473c-a2c9-d84025d4c247)
 
 Epoch 1
 ![olusan_goruntu1](https://github.com/user-attachments/assets/d9fc1808-dc78-4fc6-951a-129205f20a98)
